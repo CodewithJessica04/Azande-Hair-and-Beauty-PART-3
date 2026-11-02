@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://azandehairandbeauty.co.za/</loc>
+    </url>
+
+    <!-- About Us Page -->
+    <url>
+        <loc>https://azandehairandbeauty.co.za/about.html</loc>
+    </url>
+
+    <!-- Hairstyles and Gallery Page -->
+    <url>
+        <loc>https://azandehairandbeauty.co.za/hairstyles.html</loc>
+    </url>
+
+    <!-- Appointment Booking Page -->
+    <url>
+        <loc>https://azandehairandbeauty.co.za/book-appointment.html</loc>
+    </url>
+
+    <!-- Contact Page -->
+    <url>
+        <loc>https://azandehairandbeauty.co.za/contact.html</loc>
+    </url>
+
+    <!-- Frequently Asked Questions Page -->
+    <url>
+        <loc>https://azandehairandbeauty.co.za/faq.html</loc>
+    </url>
+
+    <!-- Salon Rules and Policies Page -->
+    <url>
+        <loc>https://azandehairandbeauty.co.za/rules.html</loc>
+    </url>
+
+</urlset>
+

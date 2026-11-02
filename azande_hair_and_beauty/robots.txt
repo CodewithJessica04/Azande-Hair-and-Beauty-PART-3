@@ -1,0 +1,14 @@
+# ==========================================
+# AZANDE HAIR & BEAUTY
+# Search Engine Crawling Configuration
+# ==========================================
+
+# Allow all search engine crawlers
+User-agent: *
+Allow: /
+
+# Prevent crawling the error page
+Disallow: /404.html
+
+# XML Sitemap
+Sitemap: https://azandehairandbeauty.co.za/sitemap.xml
